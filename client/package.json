@@ -1,7 +1,10 @@
 {
-  "name": "client",
-  "version": "0.1.0",
-  "private": true,  "dependencies": {
+  "name": "ahilyanagar-feedback-client",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Wildrex Solutions",
+  "license": "Apache-2.0",
+  "description": "Frontend for Ahilyanagar Police Feedback System","dependencies": {
     "@testing-library/dom": "^9.3.3",
     "@testing-library/jest-dom": "^6.1.4",
     "@testing-library/react": "^14.1.2",
